@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "React Native Test",
+    "name": "react-native-test",
     "slug": "React-Native-Test",
     "privacy": "public",
     "sdkVersion": "32.0.0",
